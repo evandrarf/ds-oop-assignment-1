@@ -9,8 +9,6 @@ Subject: **Data Structure and Object Oriented Programming**
 
 ## Class & Object
 
----
-
 #### 1. Class
 
 A class is a blueprint or template.
@@ -70,8 +68,6 @@ Car car = new Car();
 
 ## Constructor & Destructor
 
----
-
 #### 1. Constructor
 
 A constructor is a special method that runs when an object is created.
@@ -120,8 +116,6 @@ But in Java:
 So when an object is no longer used, Java automatically removes it from memory.
 
 ## 4 Pillars of OOP
-
----
 
 #### 1. Encapsulation
 
