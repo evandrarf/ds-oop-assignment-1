@@ -1,6 +1,6 @@
 # Assignment 1
 
-Subject: **Data Structure and Oriented Object Programming**
+Subject: **Data Structure and Object Oriented Programming**
 
 | Name  | Evandra Raditya Fauzan |
 | ----- | ---------------------- |
